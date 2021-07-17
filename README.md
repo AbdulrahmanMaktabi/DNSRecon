@@ -1,2 +1,2 @@
 # DNSRecon
-DNSRecon is a python script used for DNS information gathering.
+DNSRecon is a bash script used for DNS information gathering.
